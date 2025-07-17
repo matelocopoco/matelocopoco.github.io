@@ -1,6 +1,7 @@
 just do the funni
 trust
 ```
+// Number Guessing Game (Works on any website)!!!
 playerGuess = () => {document.getSelection};
 checker = (check) => {try { eval(atob(check)) } catch { "error!" } };
 guessTheNumber = Math.random()*10+1;
